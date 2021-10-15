@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(7, 86, 204, 0.274);
+}
+
+#cap{
+    background-color: rgba(126, 222, 247, 0.459);
+    color:rgb(1, 1, 167);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#prgf{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+[atri]{
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color:#fff6d8;;
+    margin: 0;
+    padding: 0;
+    margin-top: 0%;
+}
+
+#cap{
+    color: #906718;;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#prgf{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#prg {
+    background-color: #d48b00;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    background-image:url(../cabecalhos_back.png);
+    border: 0px solid #000;
+    background-color: #333;
+    margin-top: 0;
+    color: #fff;
+    width: 100px;
+    height: 1051px;
+    float: left;
+
+}
+
+[atri]{
+    font-family: Arial, Helvetica, sans-serif;
+    color: maroon;
+}
